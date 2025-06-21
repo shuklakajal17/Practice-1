@@ -1,1 +1,1 @@
-These are topics which I have learned from Array.
+These are the topics which I have learned from Array.
